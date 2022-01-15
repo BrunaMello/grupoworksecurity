@@ -1,0 +1,259 @@
+/*font-family: 'Montserrat', sans-serif;*/
+/*font-family: 'Ubuntu', sans-serif;*/
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center
+}
+
+p {
+    color: black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Montserrat-Bold, sans-serif;
+    font-weight: bold;
+}
+
+/*DIV*/
+
+
+
+/*Headings */
+
+.section-heading {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#big-heading {
+    font-family: Montserrat-Black, sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+div.img-head {
+
+}
+
+.img-head {
+    width: 100%;
+}
+
+/*Div Apresentacao*/
+
+.apresentacao {
+    line-height: 1.5;
+    padding: 10px;
+}
+
+button.apresentacao {
+
+}
+
+h1.apresentacao {
+    text-align: justify;
+
+}
+
+h2.apresentacao {
+    text-align: right;
+}
+
+p.apresentacao {
+    color: white;
+    text-align: justify;
+}
+
+/*Title Section*/
+
+
+#title .container-fluid {
+    padding: 3% 15% 7%;
+    text-align: left;
+
+}
+
+
+/*Containers*/
+
+.container-fluid {
+    padding: 7% 15%;
+}
+
+/*Sections*/
+
+.colored-section {
+    background-color: #73A665;
+    color: #fff;
+}
+
+.white-section {
+    background-color: #fff;
+}
+
+
+/*Navigation Bar */
+
+.navbar {
+    padding: 0 0 2.5rem;
+
+}
+
+.navbar-brand {
+    font-family: Ubuntu, sans-serif;
+    font-size: 2.5rem;
+    font-weight: inherit;
+}
+
+.nav-link {
+    text-align: right;
+}
+
+.article-nav {
+    font-family: Montserrat, sans-serif;
+    font-size: 1rem;
+    font-weight: normal;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: Montserrat-Light;
+}
+
+/*Download Buttons */
+
+.orcamento-button {
+    margin: 5% 3% 7% 0;
+}
+
+/*Head site section*/
+
+#head-site {
+
+}
+
+#img-logo {
+    width: 25%;
+    position: absolute;
+    right: 30%;
+    left: 50%;
+}
+
+
+/*Features*/
+
+.feature-title {
+    font-size: 1.5rem;
+}
+
+#features {
+    background-color: #fff;
+    font-family: Montserrat, sans-serif;
+    position: relative;
+}
+
+
+.feature-box {
+    alignment: center;
+}
+
+.icon-features {
+    color: #f29e38;
+    margin-bottom: 1rem;
+}
+
+.icon-features:hover {
+    color: #73A665;
+}
+
+/*Testemonial Section*/
+
+.testimonial-text {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#testimonials {
+    background-color: #f29e38;
+}
+
+.testimonials-img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+
+/*Press Section*/
+
+#press {
+    background-color: #f29e38;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+/*Pricing*/
+
+.price-text {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#pricing {
+    padding: 100px;
+}
+
+.pricing-column {
+    padding: 3% 2%;
+}
+
+/*Call to Action Section*/
+
+
+#h3-cta {
+    font-size: 3rem;
+}
+
+/*Footer*/
+
+#footer {
+    background-color: white;
+}
+
+.fab-footer {
+    padding: 1% 1% 2%;
+}
+
+/*Media Kit*/
+
+@media (max-width: 1028px) {
+
+    #img-logo {
+        transform: rotate(0);
+        position: relative;
+        left: 0;
+    }
+
+    #title {
+        text-align: center;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
